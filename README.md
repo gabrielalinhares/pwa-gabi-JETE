@@ -1,4 +1,4 @@
-#Progressive Web Applications (PWA) Challenge: Text Editor
+# Progressive Web Applications (PWA) Challenge: Text Editor
 
 ## Describe
   This is an app that works as an Text editor that uses PWA and can be used offline as well
