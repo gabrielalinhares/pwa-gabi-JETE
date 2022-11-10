@@ -4,7 +4,6 @@
   This is an app that works as an Text editor that uses PWA and can be used offline as well
 
   ## Table of Contents
-  * [Rules](#Rules)
   * [Usage](#usage)
   * [Contributors](#contributors)
   * [Questions](#questions)
