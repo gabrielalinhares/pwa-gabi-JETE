@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-   "scripts": {
+  "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\"  \"cd client && npm run build\"",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server node server.js --ignore client",
@@ -22,6 +22,7 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "html-webpack-plugin": "^5.5.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack-cli": "^4.10.0"
   }
 }
